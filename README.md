@@ -8,18 +8,18 @@ The problems are categorized by topic and difficulty for easy navigation. Each s
 ## Repository Structure
 The solutions are organized into the following categories:
 
-Arrays
-Strings
-Dynamic Programming
-Graphs
-Linked Lists
-Stack/Queue
-Trees
+- Arrays
+- Strings
+- Dynamic Programming
+- Graphs
+- Linked Lists
+- Stack/Queue
+- Trees
 
 ## How to Use
-Browse the repository by category or difficulty.
-Open a solution file to review the code and comments.
-Run the code locally to test with custom inputs.
+- Browse the repository by category or difficulty.
+- Open a solution file to review the code and comments.
+- Run the code locally to test with custom inputs.
 
 ## Future Plans
 I plan to continue adding solutions over time as I solve more LeetCode problems and explore new topics.
