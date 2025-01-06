@@ -1,5 +1,4 @@
 # leetcode-solutions
-Organized solutions to LeetCode problems I have solved!
 
 ## About
 This repository contains my solutions to various LeetCode problems, written in Python.
