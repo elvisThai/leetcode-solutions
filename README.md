@@ -1,8 +1,7 @@
-# leetcode-solutions
-
 ## About
-This repository contains my solutions to various LeetCode problems, written in Python.
-The problems are categorized by topic for easy navigation. Each solution includes comments explaining the approach, logic, and time/space complexity analysis.
+This repository contains my solutions to various LeetCode problems, written in Python. The problems are organized by topic for easy navigation. Each solution includes comments explaining the approach, logic, and time/space complexity analysis.  
+
+The purpose of this repository is to **track my learning** and maintain an organized space I can access at anytime when needed to refresh my memory. I plan to continue adding solutions over time as I solve new problems and revisit previous ones I've explored. :D
 
 ## Repository Structure
 The solutions are organized into the following categories:
@@ -14,13 +13,3 @@ The solutions are organized into the following categories:
 - Linked Lists
 - Stack/Queue
 - Trees
-
-## How to Use
-- Browse the repository by category.
-- Open a solution file to review the code and comments.
-- 
-## Future Plans
-I plan to continue adding solutions over time as I solve more LeetCode problems and explore new topics.
-
-## License
-This repository is licensed under the MIT License. Feel free to use and modify the code.
